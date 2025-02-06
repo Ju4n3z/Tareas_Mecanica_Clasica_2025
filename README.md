@@ -10,8 +10,8 @@ Este repositorio está diseñado para albergar las tareas y asignaciones del cur
 
 ## Carpetas
 
-- [Códigos](Codigos) : En esta carpeta se almacenan los códigos creados para resolver los ejercicios y problemas del curso.
-- [DocPDF](DocPDF) : Este directorio contiene todos los documentos en formato PDF relacionados con las tareas.
+- [Códigos](Codigos): En esta carpeta se almacenan los códigos creados para resolver los ejercicios y problemas del curso.
+- [DocPDF](DocPDF): Este directorio contiene todos los documentos en formato PDF relacionados con las tareas.
 - [Datos](Datos): Este directorio está destinado a almacenar los datos generados a partir de los ejercicios y simulaciones.
 
 
